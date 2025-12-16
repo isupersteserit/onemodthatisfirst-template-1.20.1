@@ -1,0 +1,11 @@
+{
+  "parent": "onemodthatisfirst:item/celebration_mk_2_handheld",
+  "overrides": [
+    {
+      "predicate": {
+        "onemodthatisfirst:is_held": 1.0
+      },
+      "model": "onemodthatisfirst:item/celebration_mk_2_3d_base"
+    }
+  ]
+}
